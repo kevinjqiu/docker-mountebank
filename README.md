@@ -1,4 +1,4 @@
 Docker Mountebank
 =================
 
-This is a dockerized [mountebank](www.mbtest.org) server based on alpine linux.
+This is a dockerized [mountebank](http://mbtest.org) server based on alpine linux.
